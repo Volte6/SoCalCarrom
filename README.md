@@ -2,15 +2,11 @@
 
 Design files for reproducing old socal parks and rec carrom games
 
-================================================================================
-|--------------------------/     Carrom Boards     /---------------------------|
-================================================================================
-
-To Do:
+### To Do:
 - Fix black CMYK/RGB issue on Galactic board (maybe convert pshops to CMYK?)
 - Build Dungeons & Dragons inspired board if can get high-res image of board
 
-File Notes
+### File Notes
 - frame layer will give a better idea of what will be hidden under 3/4" rabbet joint
 - bottom layer is photo(s) of original board to compare against
 - 1.5" Clearance marker can be moved around to test gaps to allow 1" carrom to pass
